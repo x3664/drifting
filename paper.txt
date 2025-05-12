@@ -1,0 +1,6 @@
+Curriculum reinforcement learning-based drifting along a general path for autonomous vehicles
+
+
+Robotica , Volume 42 , Issue 10 , October 2024 , pp. 3263 - 3280
+DOI: https://doi.org/10.1017/S026357472400119X [Opens in a new window]
+
